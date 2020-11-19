@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30850" started-at="2020-11-18T14:11:25Z" finished-at="2020-11-18T14:11:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30850" started-at="2020-11-18T14:11:25Z" finished-at="2020-11-18T14:11:56Z">
+      <class name="org.execution.AmazonMainClass">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:org.execution.AmazonMainClass@66a3ffec]" name="launchBrowser" duration-ms="22193" started-at="2020-11-18T14:11:25Z" finished-at="2020-11-18T14:11:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.execution.AmazonMainClass@66a3ffec]" name="tc1" duration-ms="8329" started-at="2020-11-18T14:11:47Z" finished-at="2020-11-18T14:11:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.execution.AmazonMainClass@66a3ffec]" name="tc2" duration-ms="259" started-at="2020-11-18T14:11:55Z" finished-at="2020-11-18T14:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- org.execution.AmazonMainClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
